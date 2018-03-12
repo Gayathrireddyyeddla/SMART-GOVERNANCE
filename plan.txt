@@ -1,0 +1,85 @@
+                                           page 1
+
+<html>
+<head>
+<style>
+#grad 
+{
+height=5000px;
+background:linear-gradient(to left,rgba(255,255,0,0),rgba(255,255,0,1));
+}
+</style>
+</head>
+<body>
+<div id="grad">
+<p>this is the program to apply linear-gradient style</p><br>
+</body>
+</html>
+
+###########################################################################################################################
+                                          page 2
+<html>
+<head>
+<style>
+<style>
+#grad 
+{
+height=5000px;
+background:linear-gradient(red,pink,white,blue,green);
+}
+</style>
+</head>
+<body bgcolor="YELLOW">
+<center>
+<img src="C:\Users\User\Pictures\Screenshots\Screenshot (1).png"height=100 width=100>
+<h1 style="text-align:center; font-family:Algerian;">SMART GOVERNANCE</h1></td>
+
+
+<BODY TEXT="RED">
+<h3>
+<a href="C:\Users\griet\Desktop\1235-WD lab\New folder\home.html"target="empty"><h3 style="color:red;font-family:Bradley Hand ITC;">HOME</a>&nbsp;&nbsp;
+<a href="C:\Users\griet\Desktop\1235-WD lab\New folder\contact.html"target="empty">EDUCATION</a>&nbsp;&nbsp;
+<a href="C:\Users\griet\Desktop\1235-WD lab\New folder\reg.html"target="empty">TOURISM</a>&nbsp;&nbsp;
+<a href="C:\Users\griet\Desktop\1235-WD lab\New folder\login.html"target="empty">MUNCIPAL SEVICES</a>&nbsp;&nbsp;
+<a href="C:\Users\griet\Desktop\1235-WD lab\New folder\login.html"target="empty">AGRO-DOMESTIC</a>&nbsp;&nbsp;
+<a href="C:\Users\griet\Desktop\1235-WD lab\New folder\login.html"target="empty">EMERGENCY</a>&nbsp;&nbsp;
+</h3>
+</body>
+</html>
+
+###########################################################################################################################
+                                              page 3
+
+<html>
+<head>
+<h2>UPDATES</h2> <br>
+<title>
+<h1 style="font-family:Bradley Hand ITC;">updates</h1>
+</title>
+</head>
+<body bgcolor="pink">
+<a href="C:\Users\griet\Desktop\1235-WD lab\New folder\it.html"target = "empty"><h4 style="color:red;font-family:Bradley Hand ITC;">RESULTS</a><br><br>
+<br>
+<a href="C:\Users\griet\Desktop\1235-WD lab\New folder\cse.html"target = "empty">POLLING</a><br><br><br>
+<a href="C:\Users\griet\Desktop\1235-WD lab\New folder\ece.html"target = "empty">NEWS SHORTS</a><br><br><br>
+
+</html>
+
+###########################################################################################################################
+                                             page 4
+
+<html>
+<body bgcolor="seagreen">
+<form>
+<h2 style="font-family:Freestyle Script;">Login page</h2> 
+user name:<input type="text" name="user name"><br><br>
+password:<input type="password" name="password"><br><br>
+<input type="submit" name="submit" value="submit">
+</form>
+</body>
+</html>
+
+###########################################################################################################################
+
+
+
